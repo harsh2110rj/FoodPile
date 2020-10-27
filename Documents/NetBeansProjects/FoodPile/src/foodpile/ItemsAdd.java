@@ -85,7 +85,6 @@ public class ItemsAdd extends javax.swing.JFrame {
         });
 
         tf_category.setFont(new java.awt.Font("Dialog", 0, 14)); // NOI18N
-        tf_category.setText("ohh");
 
         jLabel3.setFont(new java.awt.Font("Franklin Gothic Medium", 1, 24)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(255, 153, 0));
